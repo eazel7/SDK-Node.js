@@ -121,7 +121,7 @@ var parameters = {
     'OPERATIONID':"60",
     'CURRENCYCODE': "032",
     'AMOUNT':"54",
-    'MAXINSTALLMENTS':"3",
+    'MININSTALLMENTS':"3",
     'MAXINSTALLMENTS':"6"
   };
   //Control de Fraude
